@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KorWork</string>
+    <string name="app_in_name">KorWork</string>
+    <string name="app_name_after">RegisterApp</string>
+    <string name="text_bottom">Log in</string>
+    <string name="btnSignIn">Sign in</string>
+    <string name="btnRegister">Registration</string>
+
+    <string name="services_for_hour">Give a work</string>
+    <string name="offers_for_hour">Search a work</string>
+    <string name="job_offer">Vacancies</string>
+    <string name="settings">Settigs profile</string>
+
+
+</resources>

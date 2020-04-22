@@ -1,0 +1,2 @@
+rootProject.name='KorWork'
+include ':app'

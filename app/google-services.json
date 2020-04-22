@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882555345059",
+    "firebase_url": "https://korwork-74de9.firebaseio.com",
+    "project_id": "korwork-74de9",
+    "storage_bucket": "korwork-74de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882555345059:android:cf85ae79d841314d478716",
+        "android_client_info": {
+          "package_name": "com.example.korwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882555345059-c081jdide6v6v2ggsn4m0sojmrambund.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.korwork",
+            "certificate_hash": "807fc48b21c42bc1572f030c2764c2b9b844dab2"
+          }
+        },
+        {
+          "client_id": "882555345059-8ngbqo1dhbma2gupmfft84uf209s33d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGSAnjsxXO3pe3JlhuPg4zP5GseBx4Rds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882555345059-8ngbqo1dhbma2gupmfft84uf209s33d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
